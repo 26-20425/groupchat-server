@@ -1,0 +1,15 @@
+{
+  "name": "groupchat",
+  "version": "1.0.0",
+  "description": "로그인 없이 쓰는 실시간 그룹채팅",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
